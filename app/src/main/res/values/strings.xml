@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="high_score">High score: 0</string>
+    <string name="new_game">New Game</string>
+    <string name="reset_score">reset score</string>
+    <string name="exit">Exit</string>
+    <string name="score_successfully_reset">score successfully reset</string>
+    <string name="current_score">score</string>
+    <string name="restart">restart</string>
+    <string name="high_record">Record</string>
+    <string name="game_over">Game over</string>
+</resources>

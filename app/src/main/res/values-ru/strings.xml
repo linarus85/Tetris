@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Тетрис</string>
+    <string name="high_score">Рекорд: 0</string>
+    <string name="new_game">Новая игра</string>
+    <string name="reset_score">сбросить счет</string>
+    <string name="exit">Выход</string>
+    <string name="score_successfully_reset">очки успешно сброшены</string>
+    <string name="current_score">Очки</string>
+    <string name="restart">сброс</string>
+    <string name="high_record">Рекорд</string>
+    <string name="game_over">Игра окочена</string>
+</resources>
